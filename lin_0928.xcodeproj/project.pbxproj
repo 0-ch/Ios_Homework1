@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		594AD5D228E48ED1004CAD50 /* 手機截圖題目.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 594AD5CF28E48ED0004CAD50 /* 手機截圖題目.PNG */; };
+		594AD5D328E48ED1004CAD50 /* 預覽結果作品.png in Resources */ = {isa = PBXBuildFile; fileRef = 594AD5D028E48ED0004CAD50 /* 預覽結果作品.png */; };
+		594AD5D428E48ED1004CAD50 /* 模擬器截圖作品.png in Resources */ = {isa = PBXBuildFile; fileRef = 594AD5D128E48ED1004CAD50 /* 模擬器截圖作品.png */; };
 		59A3191E28E41E0300EB7E65 /* lin_0928App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59A3191D28E41E0300EB7E65 /* lin_0928App.swift */; };
 		59A3192028E41E0300EB7E65 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59A3191F28E41E0300EB7E65 /* ContentView.swift */; };
 		59A3192228E41E0C00EB7E65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59A3192128E41E0C00EB7E65 /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		594AD5CF28E48ED0004CAD50 /* 手機截圖題目.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "手機截圖題目.PNG"; sourceTree = "<group>"; };
+		594AD5D028E48ED0004CAD50 /* 預覽結果作品.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "預覽結果作品.png"; sourceTree = "<group>"; };
+		594AD5D128E48ED1004CAD50 /* 模擬器截圖作品.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "模擬器截圖作品.png"; sourceTree = "<group>"; };
 		59A3191A28E41E0300EB7E65 /* lin_0928.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lin_0928.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59A3191D28E41E0300EB7E65 /* lin_0928App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lin_0928App.swift; sourceTree = "<group>"; };
 		59A3191F28E41E0300EB7E65 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +58,9 @@
 		59A3191C28E41E0300EB7E65 /* lin_0928 */ = {
 			isa = PBXGroup;
 			children = (
+				594AD5CF28E48ED0004CAD50 /* 手機截圖題目.PNG */,
+				594AD5D028E48ED0004CAD50 /* 預覽結果作品.png */,
+				594AD5D128E48ED1004CAD50 /* 模擬器截圖作品.png */,
 				59A3191D28E41E0300EB7E65 /* lin_0928App.swift */,
 				59A3191F28E41E0300EB7E65 /* ContentView.swift */,
 				59A3192128E41E0C00EB7E65 /* Assets.xcassets */,
@@ -128,6 +137,9 @@
 			files = (
 				59A3192528E41E0C00EB7E65 /* Preview Assets.xcassets in Resources */,
 				59A3192228E41E0C00EB7E65 /* Assets.xcassets in Resources */,
+				594AD5D428E48ED1004CAD50 /* 模擬器截圖作品.png in Resources */,
+				594AD5D228E48ED1004CAD50 /* 手機截圖題目.PNG in Resources */,
+				594AD5D328E48ED1004CAD50 /* 預覽結果作品.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
